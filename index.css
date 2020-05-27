@@ -1,0 +1,387 @@
+/* General */
+
+body {
+  background-color:black;
+
+}
+
+.video-container {
+  height:
+}
+
+/* VacSuckPro */
+.vacSuckProTitle{
+  font-family: "Roboto" sans-serif;
+  padding-top: 100px;
+  margin: 0;
+  padding-bottom: 0px;
+  color: white;
+  text-align: center;
+  font-size: 40px;
+  align: center;
+  font-size: 40px;
+}
+.vacSuckProTagLine {
+  font-family: "Roboto", sans-serif;
+  padding-top: 0px;
+  margin: 0;
+  padding-bottom 0px;
+  font-weight: bold;
+  color: white;
+  text-align: center;
+  font-size: 64px;
+  align: center;
+}
+.vacSuckProContent {
+  font-family: 'Roboto', sans-serif;
+  font-size: 30px;
+  font-weight: 600;
+  color: white;
+  text-align: center;
+  padding-top: 20px;
+  margin: 0;
+  padding-bottom: 0px;
+  text-align: center;
+  line-height: 90%;
+}
+.vacSuckProContent1 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 30px;
+  font-weight: 600;
+  color: white;
+  text-align: center;
+  padding-top: 20px;
+  margin: 0;
+  padding-bottom: 30px;
+  text-align: center;
+  line-height: 90%;
+}
+
+.buy{
+  font-size:25px;
+  color: white;
+  padding-top: 3px;
+  padding-bottom: 0px;
+}
+
+/* images */
+.vacuumgif{
+  position: relative;
+}
+.vacuumgif1{
+  position: relative;
+}
+.hydrocore-pic{
+  position: relative;
+  right: 100px;
+  padding-bottom: -100px;
+}
+
+.hydrocore2-pic{
+  position: relative;
+  left: 550px;
+}
+.h3gif{
+  font-size: 40px;
+  position: absolute;
+  color: white;
+  font-weight: bold;
+  right: 75px;
+  top: 100px;
+  line-height: 150%;
+}
+
+.h3gif1{
+  font-size: 40px;
+  position: absolute;
+  padding-top: -10px;
+  color: white;
+  font-weight: bold;
+  text-align: right;
+  left: 120px;
+  top: 100px;
+  line-height: 150%;
+}
+
+/* Buy Now */
+.buyASucker{
+  text-align:center;
+  display: block;
+  color: white;
+  font-family: "Roboto",sans-serif;
+  font-size: 30px;
+  padding-top: 80px;
+  padding-bottom: 10px;
+  padding-right: 0px;
+  padding-left:0px;
+}
+
+
+button{
+  display: block;
+  background-color: black;
+  text-color: white;
+}
+
+/* images */
+.vacuumgif{
+  padding: 20;
+  margin: 10;
+}
+
+
+.fontsize{
+  font-family: Myriad Pro, sans-serif;
+  padding-top: 0px;
+  margin: 0;
+  padding-bottom: 10px;
+  color: white;
+  text-align: center;
+  font-size: 40px;
+  background: black;
+  font-welor: black;
+  }
+
+.Hydrocore{
+  font-family: "Roboto" sans-serif;
+  font-size: 61px;
+  line-height: 1.0625;
+  font-weight: 600;
+  padding-top: 50px;
+  margin: 0;
+  padding-bottom: 100px;
+  text-align: left;
+  -webkit-background-clip: text;
+  background-repeat: no-repeat;
+  background-image: url("https://cdn.glitch.com/db28eb59-4b63-43ea-8314-75f0a95c1e17%2F32339612-blue-electric-lighting-abstract-electrical-background%20(2).jpg?v=1565967304707");
+}
+
+.Material{
+  font-family: "Roboto" sans-serif;
+  font-size: 64px;
+  line-height: 1.0625;
+    font-weight: 600;
+  padding-top: 100px;
+  margin: 0;
+  padding-bottom: 0px;
+  text-align: left;
+  -webkit-background-clip: text;
+  background-repeat: no-repeat;
+  letter-spacing: -.009em;
+  background-image: url("https://cdn.glitch.com/db28eb59-4b63-43ea-8314-75f0a95c1e17%2F100434016-hot-yellow-lightning-abstract-electrical-plasma-background%20(1).jpg?v=1565970001403");
+}
+
+.Color{
+  font-family: "Roboto" sans-serif;
+  font-size: 64px;
+  line-height: 1.0625;
+    font-weight: 600;
+  padding-top: 50px;
+  margin: 0;
+  padding-bottom: 100px;
+  text-align: Left;
+  -webkit-background-clip: text;
+  background-repeat: no-repeat;
+  letter-spacing: -.009em;
+  background-image: url("https://cdn.glitch.com/db28eb59-4b63-43ea-8314-75f0a95c1e17%2Frainbow.png?v=1565983951003");
+}
+
+.green{
+  font-family: "Roboto" sans-serif;
+  font-size: 64px;
+  line-height: 1.0625;
+    font-weight: 600;
+  padding-top: 50px;
+  margin: 0;
+  padding-bottom: 100px;
+  text-align: Left;
+  -webkit-background-clip: text;
+  background-repeat: no-repeat;
+  letter-spacing: -.009em;
+  background-image: url("https://cdn.glitch.com/db28eb59-4b63-43ea-8314-75f0a95c1e17%2Fgreen-energy.png?v=1565985187132");
+}
+
+.transparentText {
+  color:transparent;
+}
+.noTransparentText {
+  color:white !important;
+}
+  form {
+    font-size: 15px;
+    font-family: "Roboto",sans-serif;
+    color: #888;
+  }
+@media (min-width: 1200px) {
+    .container-fixed{
+        margin-left: auto;
+        margin-right: auto;
+        width: 980px;
+    }
+}
+
+.Hydrocoredes{
+  font-family: "Roboto" sans-serif;
+  font-size: 61px;
+  line-height: 1.0625;
+  font-weight: 600;
+  padding-top: -30px;
+  margin: 0;
+  padding-bottom: 100px;
+  text-align: left;
+  /*-webkit-background-clip: text;
+  background-repeat: no-repeat;
+  background-image: url("https://cdn.glitch.com/db28eb59-4b63-43ea-8314-75f0a95c1e17%2Fgiphy.gif?v=1565925367786");*/
+  background-color: black;
+  color:white;
+}
+
+* {box-sizing: border-box}
+
+/* Container needed to position the overlay. Adjust the width as needed */
+.container1 {
+  position: relative;
+  width: 50%;
+  max-width: 300px;
+}
+
+/* Make the image to responsive */
+.vacuum1 {
+  position: relative;
+  display: block;
+  width: 100%;
+  height: auto;
+
+}
+
+.vacuum2 {
+  position: absolute;
+  display: block;
+  width: 100%;
+  height: auto;
+
+}
+
+/* The overlay effect - lays on top of the container and over the image */
+.overlay {
+  position: absolute;
+  bottom: 0;
+  background: rgb(0, 0, 0);
+  background: rgba(0, 0, 0, 0.5); /* Black see-through */
+  color: #f1f1f1;
+  width: 100%;
+  transition: .5s ease;
+  opacity:0;
+  color: white;
+  font-size: 20px;
+  padding: 20px;
+  text-align: center;
+}
+
+/* When you mouse over the container, fade in the overlay title */
+.container1 {
+  position: relative;
+  width: 50%;
+  display: inline-block;
+
+}
+
+.vacuum1 {
+  display: inline-block;
+  width: 100%;
+  height: auto;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: #666161;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.container1:hover .overlay {
+  opacity: 0.7;
+}
+
+.text {
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.otherProductsTitle{
+  font-family: "Roboto" sans-serif;
+  padding-top: 50px;
+  margin: 0;
+  padding-bottom: 10px;
+  color: white;
+  text-align: center;
+  font-size: 40px;
+  align: center;
+  font-size: 40px;
+}
+
+.otherProductsTagLine{
+  font-family: "Roboto", sans-serif;
+  padding-top: 0px;
+  margin: 0;
+  padding-bottom: 100px
+  font-weight: bold;
+  color: white;
+  text-align: center;
+  font-size: 64px;
+  align: center;
+}
+
+#otherProducts{
+  width: 80%;
+  margin: auto;
+}
+
+.space{
+  color: black;
+}
+
+.succdesc{
+  font-family: "Roboto" sans-serif;
+  padding-top: 0px;
+  margin: 0;
+  color: white;
+  text-align: center;
+  font-size: 32px;
+  align: center;
+  font-weight: bold;
+  line-height: 50px;
+  padding-bottom: 100px;
+}
+br{
+  padding: 20px 0px;
+}
+
+.footer{
+  font-family: "Roboto" sans-serif;
+  color:white;
+  font-size: 20px;
+  padding-bottom: 10px;
+
+}
+
+#cool-alert {
+  position:absolute;
+  top:50px;
+  display:none;
+}
